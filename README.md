@@ -42,7 +42,10 @@ This git contains the testbench files for the LR exercise. Please direct any que
 1. Modify the "python/get_mnist_stats.py" file with your own code to generate NMED for your multipliers. 
 
 ## F: Requirements for your final report and presentation:
-1. Perform all the steps included in Section A to E. 
+
+> [!CRITICAL]
+> Perform all the steps included in Section A to E. 
+
 2. Record the Accuracy values for Section C, and NMED for each layer for Section C. Here you will record a total of 4 metrics: 1 Accuracy, 3 NMED_per_layer
 3. Record the Accuracy values for Section D, and NMED for the last layer. Here you will record a total of 2 metrics: 1 Accuracy, 1 NMED_last_layer
 4. Write your own testbench to generate the NMED of your multiplier for all possible input values. Here you will record 1 metric: NMED_all_possible_inputs.
