@@ -43,7 +43,7 @@ This git contains the testbench files for the LR exercise. Please direct any que
 
 ## F: Requirements for your final report and presentation:
 
-> [!CRITICAL]
+> [!CAUTION]
 > Perform all the steps included in Section A to E. 
 
 2. Record the Accuracy values for Section C, and NMED for each layer for Section C. Here you will record a total of 4 metrics: 1 Accuracy, 3 NMED_per_layer
