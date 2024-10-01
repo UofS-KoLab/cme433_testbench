@@ -1,5 +1,5 @@
-# Literature Review TB for CME 433 (2023 - 09)
-This git contains the testbench files for the LR exercise for Fall 2023 Term. 
+# Literature Review TB for CME 433 and EE 800
+This git contains the testbench files for the LR exercise. Please direct any queries to hamis.haider@usask.ca.  
 
 # Instructions
 IMPORTANT NOTE: Make sure that your terminal is using csh through running the following command ONCE in your terminal before you start any work: `csh` (You'll have to repeat this step for every new terminal window you open.)
