@@ -46,9 +46,9 @@ This git contains the testbench files for the LR exercise. Please direct any que
 > [!CAUTION]
 > Perform all the steps included in Section A to E. 
 
-2. Record the Accuracy values for Section C, and NMED for each layer for Section C. Here you will record a total of 4 metrics: 1 Accuracy, 3 NMED_per_layer
-3. Record the Accuracy values for Section D, and NMED for the last layer. Here you will record a total of 2 metrics: 1 Accuracy, 1 NMED_last_layer
-4. Write your own testbench to generate the NMED of your multiplier for all possible input values. Here you will record 1 metric: NMED_all_possible_inputs.
+1. Record the Accuracy values for Section C, and NMED for each layer for Section C. Here you will record a total of 4 metrics: 1 Accuracy, 3 NMED_per_layer
+1. Record the Accuracy values for Section D, and NMED for the last layer. Here you will record a total of 2 metrics: 1 Accuracy, 1 NMED_last_layer
+1. Write your own testbench to generate the NMED of your multiplier for all possible input values. Here you will record 1 metric: NMED_all_possible_inputs.
 
 <!-- 
 ## G: EE800 Students
