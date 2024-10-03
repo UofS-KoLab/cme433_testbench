@@ -15,6 +15,7 @@ source run_dc_analysis.csh exact_mult ../src/
 
 This will run the dc analysis for the sample exact multiplier provided in this repo. To use the same command for your custom design, use the following annotated image to provide arguments to the script:  
 
+![dc_annotated_image](images/dc_annotated_image.png)
 
 # Instructions
 IMPORTANT NOTE: Make sure that your terminal is using csh through running the following command ONCE in your terminal before you start any work: `csh` (You'll have to repeat this step for every new terminal window you open.)
