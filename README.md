@@ -1,6 +1,21 @@
 # Literature Review TB for CME 433 (2023 - 09)
 This git contains the testbench files for the LR exercise for Fall 2023 Term. 
 
+# Synopsys Design Compiler (DC)
+
+Run the following command to change dir to the dc_compiler folder from the home folder.  
+```bash
+cd design_compiler
+```
+
+Run the following commmand once inside the `design_compiler` folder to execute the dc_script.  
+```bash
+source run_dc_analysis.csh exact_mult ../src/
+```
+
+This will run the dc analysis for the sample exact multiplier provided in this repo. To use the same command for your custom design, use the following annotated image to provide arguments to the script:  
+
+
 # Instructions
 IMPORTANT NOTE: Make sure that your terminal is using csh through running the following command ONCE in your terminal before you start any work: `csh` (You'll have to repeat this step for every new terminal window you open.)
 # A: Testing your setup
